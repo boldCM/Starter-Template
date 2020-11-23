@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/boldCM/Starter-Template#readme",
   "devDependencies": {
+    "eslint": "^7.14.0",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-react": "^7.21.5",
     "prettier": "^2.2.0"
   }
 }
