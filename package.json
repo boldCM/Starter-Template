@@ -1,0 +1,23 @@
+{
+  "name": "starter-template",
+  "version": "1.0.0",
+  "description": "for starting new projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettify": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boldCM/Starter-Template.git"
+  },
+  "author": "Carolin Meier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boldCM/Starter-Template/issues"
+  },
+  "homepage": "https://github.com/boldCM/Starter-Template#readme",
+  "devDependencies": {
+    "prettier": "^2.2.0"
+  }
+}
