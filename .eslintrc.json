@@ -29,8 +29,6 @@
       "warn",
       { "vars": "all", "args": "after-used", "ignoreRestSiblings": true }
     ],
-    // "semi": ["error", "always"],
-    // "quotes": ["error", "double"]
     "react/no-unescaped-entities": "off",
     "import/no-anonymous-default-export": "off"
   }
