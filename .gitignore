@@ -104,5 +104,5 @@ dist
 .tern-port
 
 # Prettier and esLint
-.prettierignore
+# .prettierignore
 .eslintignore
