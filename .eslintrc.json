@@ -18,13 +18,19 @@
     "ecmaVersion": 12,
     "sourceType": "module"
   },
+  "settings": {
+    "react": {
+      "version": "latest"
+    }
+  },
   "plugins": ["react"],
   "rules": {
     "no-unused-vars": [
       "warn",
-      { "vars": "all", "args": "all", "ignoreRestSiblings": true }
+      { "vars": "all", "args": "after-used", "ignoreRestSiblings": true }
     ]
     // "semi": ["error", "always"],
     // "quotes": ["error", "double"]
-  }
+  },
+  "import/no-anonymous-default-export": "off"
 }
