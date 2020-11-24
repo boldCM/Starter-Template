@@ -49,5 +49,6 @@ Configuration is optimized for deployment with Heroku. If you want to deploy thi
 
 ### Credits
 
-This project is inspired by [cra-with-api](https://github.com/lmachens/cra-with-api)
-And ReadMe by [awesome-project-template](https://github.com/mhstrkmp/awesome-project-template)
+This project is inspired by @lmachens [cra-with-api](https://github.com/lmachens/cra-with-api)
+
+And ReadMe by @mhstrkmp [awesome-project-template](https://github.com/mhstrkmp/awesome-project-template)
