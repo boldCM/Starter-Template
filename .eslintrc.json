@@ -30,6 +30,7 @@
       { "vars": "all", "args": "after-used", "ignoreRestSiblings": true }
     ],
     "react/no-unescaped-entities": "off",
-    "import/no-anonymous-default-export": "off"
+    "import/no-anonymous-default-export": "off",
+    "prettier/prettier": 2
   }
 }
