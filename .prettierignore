@@ -1,4 +1,4 @@
 # Ignore artifacts:
-build/
-coverage/
-storybook-static/ 
+**/build/
+**/coverage/
+**/storybook-static/ 

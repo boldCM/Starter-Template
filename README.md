@@ -2,11 +2,6 @@
 
 # Starter-Template
 
-Template for starting new projects
-![Node.js CI](https://github.com/mhstrkmp/awesome-project-template/workflows/Node.js%20CI/badge.svg)
-
-# 😎 Awesome Project Template 😎
-
 ## Getting Started
 
 1. Click `Use this template`. This will create a new repository for you based on this template.
